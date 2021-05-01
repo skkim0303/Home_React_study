@@ -1,3 +1,7 @@
+# React Home Study 
+React 기본에 대한 이해를 위하여 집에서 Study 한 내용을 정리함
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
